@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/deepsoftnet/static/css/main.1d5bc7a1.css",
+    "main.js": "/deepsoftnet/static/js/main.df153ffc.js",
+    "static/media/logo.png": "/deepsoftnet/static/media/logo.a5dcfd3fc1abe84505c6.png",
+    "index.html": "/deepsoftnet/index.html",
+    "main.1d5bc7a1.css.map": "/deepsoftnet/static/css/main.1d5bc7a1.css.map",
+    "main.df153ffc.js.map": "/deepsoftnet/static/js/main.df153ffc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d5bc7a1.css",
+    "static/js/main.df153ffc.js"
+  ]
+}
